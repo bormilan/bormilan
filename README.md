@@ -2,6 +2,8 @@
 
 Im a backend developer.
 
+[![An image of @bormilan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bormilan)](https://holopin.io/@bormilan)
+
 <!--
 **bormilan/bormilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
