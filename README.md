@@ -8,7 +8,7 @@ I'm a backend developer.
 - I have experience with several programming languages, including Python, TypeScript, C#, Lua, R, and Go.
 
 ### Projects I'm Currently Working On:
-- [Elvis Core](URL_1)
+- [Elvis Core](https://github.com/inaka/elvis_core)
 
 ---
 
